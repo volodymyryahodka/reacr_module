@@ -1,0 +1,22 @@
+img {
+    width: 250px;
+}
+
+div {
+    width: 100%;
+    border: 3px dashed rgb(172, 60, 139);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+.textInfo {
+    font-size: 32px;
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Roboto',  sans-serif;
+}
